@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Circuit';
+    src: url('Circuit.eot');
+    src: url('Circuit.eot?#iefix') format('embedded-opentype'),
+        url('Circuit.woff2') format('woff2'),
+        url('Circuit.woff') format('woff'),
+        url('Circuit.ttf') format('truetype'),
+        url('Circuit.svg#Circuit') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
