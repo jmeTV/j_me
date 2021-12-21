@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'pix M 8pt';
+    src: url('fonts/ms-sans-serif.eot');
+    src: url('fonts/ms-sans-serif.eot?#iefix') format('embedded-opentype'),
+         url('fonts/ms-sans-serif.woff2') format('woff2'),
+         url('fonts/ms-sans-serif.woff') format('woff'),
+         url('fonts/ms-sans-serif.ttf')  format('truetype'),
+         url('fonts/ms-sans-serif.svg#pix M 8pt') format('svg');
+}
