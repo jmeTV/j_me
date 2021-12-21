@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'mssansserif';
+    src: url('fonts/mssansserif.eot');
+    src: url('fonts/mssansserif.eot') format('embedded-opentype'),
+         url('fonts/mssansserif.woff2') format('woff2'),
+         url('fonts/mssansserif.woff') format('woff'),
+         url('fonts/mssansserif.ttf') format('truetype'),
+         url('fonts/mssansserif.svg#mssansserif') format('svg');
+}
